@@ -11,6 +11,12 @@ Requires:
 
 
 ## development stack (for now):
+Collaboration/versioning:
+- Github ([here](https://github.com/serialc/thyme_webgis))
+
+Unit testing:
+- Travis ([check](https://travis-ci.com/serialc/thyme_webgis))
+
 Client-side:
 - HTML and CSS for layout and design
 - JS for interaction and AJAX requests to server (add, remove, edit, load data)
