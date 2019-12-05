@@ -14,9 +14,11 @@ Requires:
 Client-side:
 - HTML and CSS for layout and design
 - JS for interaction and AJAX requests to server (add, remove, edit, load data)
+
 Server-side:
 - Apache directing requests and serving PHP results
 - PHP processing (API) request types and querying and updating DB
+
 Database:
 - PostgreSQL
 - PostGIS (a wrapper/extension to PostgreSQL for gis requests/operations)
