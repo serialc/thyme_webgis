@@ -28,3 +28,9 @@ Server-side:
 Database:
 - PostgreSQL
 - PostGIS (a wrapper/extension to PostgreSQL for gis requests/operations)
+
+## To do list
+- [ ] Make the admin area (.htaccess for now)
+- [ ] Allow admin data upload
+- [ ] Create API that retrieves data from DB, allow export
+- [ ] Adapt front-end webmap to allow layer select and data export
