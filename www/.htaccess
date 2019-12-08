@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "THYME WebGIS administration area. A password is required."
+AuthUserFile /home/ADAPT PATH/public_html/.htpasswd
+Require valid-user
